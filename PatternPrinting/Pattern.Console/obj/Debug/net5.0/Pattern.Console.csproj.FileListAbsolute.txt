@@ -1,0 +1,5 @@
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\Pattern.Console\obj\Debug\net5.0\Pattern.Console.csproj.AssemblyReference.cache
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\Pattern.Console\obj\Debug\net5.0\Pattern.Console.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\Pattern.Console\obj\Debug\net5.0\Pattern.Console.AssemblyInfoInputs.cache
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\Pattern.Console\obj\Debug\net5.0\Pattern.Console.AssemblyInfo.cs
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\Pattern.Console\obj\Debug\net5.0\Pattern.Console.csproj.CoreCompileInputs.cache

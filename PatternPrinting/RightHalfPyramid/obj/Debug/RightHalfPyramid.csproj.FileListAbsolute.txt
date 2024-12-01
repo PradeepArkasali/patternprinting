@@ -1,0 +1,8 @@
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\RightHalfPyramid\bin\Debug\RightHalfPyramid.exe.config
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\RightHalfPyramid\bin\Debug\RightHalfPyramid.exe
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\RightHalfPyramid\bin\Debug\RightHalfPyramid.pdb
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\RightHalfPyramid\obj\Debug\RightHalfPyramid.csproj.AssemblyReference.cache
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\RightHalfPyramid\obj\Debug\RightHalfPyramid.csproj.SuggestedBindingRedirects.cache
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\RightHalfPyramid\obj\Debug\RightHalfPyramid.csproj.CoreCompileInputs.cache
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\RightHalfPyramid\obj\Debug\RightHalfPyramid.exe
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\RightHalfPyramid\obj\Debug\RightHalfPyramid.pdb

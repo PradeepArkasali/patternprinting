@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{879C9A0C-7B7D-4609-AD42-89191C640FF7}</ProjectGuid>
+    <ProjectGuid>{B9FFC55F-B10B-4FE0-AD9B-54197BD3180D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PatternPrinting.Console</RootNamespace>
-    <AssemblyName>PatternPrinting.Console</AssemblyName>
+    <RootNamespace>RightHalfPyramid</RootNamespace>
+    <AssemblyName>RightHalfPyramid</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LeftHalfPyramid.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RightHalfPyramid.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

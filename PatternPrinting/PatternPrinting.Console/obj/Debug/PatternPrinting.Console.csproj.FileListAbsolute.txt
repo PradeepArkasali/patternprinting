@@ -1,0 +1,8 @@
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\PatternPrinting.Console\bin\Debug\PatternPrinting.Console.exe.config
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\PatternPrinting.Console\bin\Debug\PatternPrinting.Console.exe
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\PatternPrinting.Console\bin\Debug\PatternPrinting.Console.pdb
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\PatternPrinting.Console\obj\Debug\PatternPrinting.Console.csproj.AssemblyReference.cache
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\PatternPrinting.Console\obj\Debug\PatternPrinting.Console.csproj.SuggestedBindingRedirects.cache
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\PatternPrinting.Console\obj\Debug\PatternPrinting.Console.csproj.CoreCompileInputs.cache
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\PatternPrinting.Console\obj\Debug\PatternPrinting.Console.exe
+F:\Pradeep\Prep\PatternPrinting\PatternPrinting\PatternPrinting.Console\obj\Debug\PatternPrinting.Console.pdb
